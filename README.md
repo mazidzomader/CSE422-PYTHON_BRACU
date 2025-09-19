@@ -3,7 +3,7 @@
 # <h1 align = "center">BRAC University - Fall 2025</h1>
 Welcome to the GitHub repository for the **Artificial Intelligence** course, **CSE422**, taught at **BRAC University** for the **Fall 2025** semester.
 
-This course is taught in **MySQL** by my esteemed instructors:
+This course is taught in **Python** by my esteemed instructors:
 - Theory: Mr. **(-)**
 - Laboratory: Mr.  **(-)** and Mr.  **(-)**
 

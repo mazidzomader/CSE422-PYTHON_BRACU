@@ -4,7 +4,7 @@
 Welcome to the GitHub repository for the **Artificial Intelligence** course, **CSE422**, taught at **BRAC University** for the **Fall 2025** semester.
 
 This course is taught in **Python** by my esteemed instructors:
-- Theory: Mr. Asif Shahriar**(SHAH)**
+- Theory: Mr. Asif Shahriar **(SHAH)**
 - Laboratory: Mr. Labib Hasan Khan **(LBBH)** and Ms. Adiba Tahsin **(ABT)**
 
 ## ⚠️ Academic Integrity Policy
